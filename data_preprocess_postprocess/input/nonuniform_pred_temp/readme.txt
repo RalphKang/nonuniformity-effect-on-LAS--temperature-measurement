@@ -1,0 +1,1 @@
+this folder contain the predictions on spectra twin test set by model trained by spectra twin train set

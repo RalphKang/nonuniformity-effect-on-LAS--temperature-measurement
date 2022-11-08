@@ -1,0 +1,1 @@
+This folder contains the data indexes after spliting spectra twin set into trianing and testing set.
